@@ -1,0 +1,7 @@
+E:\aula_03_06\Cod_VetorIdade\Cod_VetorIdade\bin\Debug\Cod_VetorIdade.exe.config
+E:\aula_03_06\Cod_VetorIdade\Cod_VetorIdade\bin\Debug\Cod_VetorIdade.exe
+E:\aula_03_06\Cod_VetorIdade\Cod_VetorIdade\bin\Debug\Cod_VetorIdade.pdb
+E:\aula_03_06\Cod_VetorIdade\Cod_VetorIdade\obj\Debug\Cod_VetorIdade.csproj.AssemblyReference.cache
+E:\aula_03_06\Cod_VetorIdade\Cod_VetorIdade\obj\Debug\Cod_VetorIdade.csproj.CoreCompileInputs.cache
+E:\aula_03_06\Cod_VetorIdade\Cod_VetorIdade\obj\Debug\Cod_VetorIdade.exe
+E:\aula_03_06\Cod_VetorIdade\Cod_VetorIdade\obj\Debug\Cod_VetorIdade.pdb

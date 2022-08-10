@@ -1,0 +1,7 @@
+E:\aula_20_05\Prog_Cadastro\Prog_Cadastro\bin\Debug\Prog_Cadastro.exe.config
+E:\aula_20_05\Prog_Cadastro\Prog_Cadastro\bin\Debug\Prog_Cadastro.exe
+E:\aula_20_05\Prog_Cadastro\Prog_Cadastro\bin\Debug\Prog_Cadastro.pdb
+E:\aula_20_05\Prog_Cadastro\Prog_Cadastro\obj\Debug\Prog_Cadastro.csproj.CoreCompileInputs.cache
+E:\aula_20_05\Prog_Cadastro\Prog_Cadastro\obj\Debug\Prog_Cadastro.exe
+E:\aula_20_05\Prog_Cadastro\Prog_Cadastro\obj\Debug\Prog_Cadastro.pdb
+E:\aula_20_05\Prog_Cadastro\Prog_Cadastro\obj\Debug\Prog_Cadastro.csproj.AssemblyReference.cache

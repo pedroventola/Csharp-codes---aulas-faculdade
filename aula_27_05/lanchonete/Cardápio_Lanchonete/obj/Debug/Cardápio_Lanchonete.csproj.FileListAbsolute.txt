@@ -1,0 +1,7 @@
+D:\aula_27_05\lanchonete\Cardápio_Lanchonete\bin\Debug\Cardápio_Lanchonete.exe.config
+D:\aula_27_05\lanchonete\Cardápio_Lanchonete\bin\Debug\Cardápio_Lanchonete.exe
+D:\aula_27_05\lanchonete\Cardápio_Lanchonete\bin\Debug\Cardápio_Lanchonete.pdb
+D:\aula_27_05\lanchonete\Cardápio_Lanchonete\obj\Debug\Cardápio_Lanchonete.csproj.AssemblyReference.cache
+D:\aula_27_05\lanchonete\Cardápio_Lanchonete\obj\Debug\Cardápio_Lanchonete.csproj.CoreCompileInputs.cache
+D:\aula_27_05\lanchonete\Cardápio_Lanchonete\obj\Debug\Cardápio_Lanchonete.exe
+D:\aula_27_05\lanchonete\Cardápio_Lanchonete\obj\Debug\Cardápio_Lanchonete.pdb

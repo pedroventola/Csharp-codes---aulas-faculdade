@@ -1,0 +1,7 @@
+E:\AULAS C#\aula_03_06\Comparação_Numeros\Comparação_Numeros\bin\Debug\Comparação_Numeros.exe.config
+E:\AULAS C#\aula_03_06\Comparação_Numeros\Comparação_Numeros\bin\Debug\Comparação_Numeros.exe
+E:\AULAS C#\aula_03_06\Comparação_Numeros\Comparação_Numeros\bin\Debug\Comparação_Numeros.pdb
+E:\AULAS C#\aula_03_06\Comparação_Numeros\Comparação_Numeros\obj\Debug\Comparação_Numeros.csproj.AssemblyReference.cache
+E:\AULAS C#\aula_03_06\Comparação_Numeros\Comparação_Numeros\obj\Debug\Comparação_Numeros.csproj.CoreCompileInputs.cache
+E:\AULAS C#\aula_03_06\Comparação_Numeros\Comparação_Numeros\obj\Debug\Comparação_Numeros.exe
+E:\AULAS C#\aula_03_06\Comparação_Numeros\Comparação_Numeros\obj\Debug\Comparação_Numeros.pdb
